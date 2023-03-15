@@ -18,7 +18,6 @@
             return {
                 name: '',
                 lastName: '',
-                counter: 0
             }
         },
         methods: {
@@ -44,5 +43,4 @@
 div {
     margin-top: 10px;
 };
-
 </style>
